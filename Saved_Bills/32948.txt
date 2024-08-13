@@ -1,0 +1,16 @@
+		 Welcome to Pratik Banginwar Mart
+ Bill No: 32948
+ Customer Name: Pratik
+ Mobile No: 7767921662
+ Customer Email: P@gmail.com
+==================================================
+ Product			Qty			Price
+==================================================RoadStar		1		800
+Louis		1		1599
+Pear		2		122
+
+==================================================
+ Sub Amount:			Rs.4520.00
+ Tax Amount:			Rs.44.59
+ Total Amount:			Rs.4564.59
+==================================================

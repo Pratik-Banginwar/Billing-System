@@ -1,0 +1,15 @@
+		 Welcome to Pratik Banginwar Mart
+ Bill No: 49190
+ Customer Name: Vaishnvi Banginwar
+ Mobile No: 8605651787
+ Customer Email: vbanginwar02@gmail.com
+===================================================
+ Product			Qty			Price
+===================================================
+ Denim			1			1599
+
+===================================================
+ Sub Amount:			Rs.1599.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.1599.00
+===================================================

@@ -1,0 +1,21 @@
+		 Welcome to Pratik Banginwar Mart
+ Bill No: 57998
+ Customer Name: Pratik
+ Mobile No: 7767921662
+ Customer Email: P@Gmail.com
+===================================================
+ Product			Qty			Price
+===================================================
+ Denim			1			1599
+ RoadStar			1			800
+ Louis			1			1599
+ Lux			2			96
+ Ponds			1			33
+ Parashoot			1			54
+ Redmi_11			1			22500
+
+===================================================
+ Sub Amount:			Rs.26681.00
+ Tax Amount:			Rs.41.81
+ Total Amount:			Rs.26722.81
+===================================================
